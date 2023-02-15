@@ -6,7 +6,7 @@
 
 PyReduce_MICADO is an adapted branch of the PyReduce package optimised to handle simulated MICADO data. Only the relevant information pertaining to operating PyReduce on MICADO data are addressed in this README_MIC file, while all details of the original PyReduce package can be found in the [README.md](https://github.com/nadsabha/PyReduce_MICADO/blob/master/README.md).
 
-
+Please note that this repository is archived as the instrument spectral design has changed. (Feb. 15th, 2023) 
 
 
 Installation
